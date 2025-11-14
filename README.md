@@ -1,17 +1,17 @@
 # comparaciones de Medios de transmisión 
 
 ##  📄Lic.Anyerson.Gonzalez🛣️ 6-727-1943📜   .
-*(Soy una persona interesada en la ciberseguridad y en aprender cómo funcionan las redes para protegerlas mejor.
+Soy una persona interesada en la ciberseguridad y en aprender cómo funcionan las redes para protegerlas mejor.
 
 # Comparativa deMedios de Transmisión Guiados y No Guiados (Inalámbricos).
 
 ## 📝 Resumen
-*(Los medios de transmisión son los caminos por donde viajan los datos. 
+Los medios de transmisión son los caminos por donde viajan los datos. 
 Algunos usan cables (guiados) y otros señales por el aire (inalámbricos). 
-En ciberseguridad es importante conocerlos porque cada uno tiene riesgos y niveles diferentes de seguridad. )*
+En ciberseguridad es importante conocerlos porque cada uno tiene riesgos y niveles diferentes de seguridad. 
 
 ## 🧱 Palabras clave 🧱.
-*(ciberseguridad, coaxial, fibra óptica, par trenzado, wireless)*
+ciberseguridad, coaxial, fibra óptica, par trenzado, wireless
 
 ---
 
