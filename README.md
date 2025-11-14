@@ -56,6 +56,7 @@ Como estudiante de ciberseguridad, es importante conocer sus riesgos y cómo pro
 ---
 
 ## ✨ Referencias 🌎.
-*(Cisco Networking Academy. (2023). Introduction to Networks.
-IEEE Standards Association. (2022). IEEE 802.3 Ethernet Standards.)*
+Cisco Networking Academy. (2023). Introduction to Networks.
+
+IEEE Standards Association. (2022). IEEE 802.3 Ethernet Standards.
 
