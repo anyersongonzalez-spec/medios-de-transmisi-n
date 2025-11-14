@@ -1,7 +1,7 @@
 # comparaciones de Medios de transmisión 
 
 ##  📄Lic.Anyerson.Gonzalez🛣️ 6-727-1943📜   .
-*(Soy una persona interesada en la ciberseguridad y en aprender cómo funcionan las redes para protegerlas mejor.)*
+*(Soy una persona interesada en la ciberseguridad y en aprender cómo funcionan las redes para protegerlas mejor.
 
 # Comparativa deMedios de Transmisión Guiados y No Guiados (Inalámbricos).
 
